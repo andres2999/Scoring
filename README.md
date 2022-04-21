@@ -15,6 +15,6 @@ base ainsi que les informations qu’elle présente. L’objectif de cette parti
 comprendre les différents liens existants entre les variables, ainsi que de juger si un nettoyage
 de la base est requis, notamment en termes de valeurs manquantes ou aberrantes.
 
-On applique ensuite dans une seconde partie, différents modèles capables de prédiresi le
+On applique ensuite dans une seconde partie, différents modèles capables de prédire si le
 client résilie son contrat. On compare ensuite ces modèles à travers différentes métriques
 pour déterminer lequel présente la meilleure performance et s’adapte le mieux à nos données.
